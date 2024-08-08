@@ -63,7 +63,7 @@
                 // Simulate form submission and redirection
                 document.getElementById('loading').textContent = 'Connected!';
                 setTimeout(function() {
-                    window.location.href = 'http://your-success-page-url.com';
+                    window.location.href = 'www.google.com';
                 }, 1000);
             }, 2000);
         });
